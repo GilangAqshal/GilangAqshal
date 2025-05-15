@@ -63,7 +63,8 @@ Here are some ideas to get you started:
   [![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangaqshal&show_icons=true&theme=github_dark)](https://github.com/gilangaqshal/github-readme-stats)
   </div>
 
-### Enjor Your MyProfile <img src="Img/Fire.gif" height="25px"/>
+<!-- GIF API -->
+### Enjoy Your MyProfile <img src="Img/fire.gif" height="25px"/>
 <!-- Widget Spotify & Picture Luffy -->
 <div align="center">
   <a href="https://open.spotify.com/user/x3qpuc6fibvgyszpnzpzqyxc5">
