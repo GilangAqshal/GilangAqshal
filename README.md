@@ -1,4 +1,4 @@
-![Header](Img/github-header-image.png)
+![Header](Img/header_github.png)
 <h1 align="center">
   <img src="Img/Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
@@ -6,8 +6,8 @@
 </h1>
 
 
-##### Welcome to MyPage!
-##### I'm LangsDev! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> from &#127469;&#127475; Bekasi Indonesia.
+#### Welcome to MyPage!
+#### I'm LangsDev! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> from <img src="Img/indonesia.png" height="20px"> Bekasi Indonesia.
 
 
 <!--
@@ -29,16 +29,22 @@ Here are some ideas to get you started:
 
 
 
-##### Languages & Tools
+#### Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,wordpress,java,python,mysql,bootstrap,vscode,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,wordpress,java,python,mysql,bootstrap,tailwind,vscode&perline=6" />
   </a>
 </p>
 
+#### Connect With Me
+<div align="center">
 
-##### Connect With Me
-![https://www.instagram.com/gilangaqshal_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/gilang-aqshal-ilham-safatulloh-84a3212a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.strava.com/athletes/129918512](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white) ![https://github.com/GilangAqshal](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  [![Sosmed](https://skillicons.dev/icons?i=instagram,linkedin,github)](https://www.instagram.com/gilangaqshal_/,https://www.linkedin.com/in/gilang-aqshal-ilham-safatulloh-84a3212a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app,https://github.com/GilangAqshal)
+
+</div>
+
+<!-- ##### Connect With Me
+![https://www.instagram.com/gilangaqshal_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/gilang-aqshal-ilham-safatulloh-84a3212a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.strava.com/athletes/129918512](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white) ![https://github.com/GilangAqshal](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) -->
 
 <details open="">
 <summary>
