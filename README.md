@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   </div>
 
 <!-- GIF API -->
-### Enjoy Your MyProfile <img src="Img/fire.gif" height="25px"/>
+### Enjoy Your MyProfile <img src="Img/firee.gif" height="25px"/>
 <!-- Widget Spotify & Picture Luffy -->
 <div align="center">
   <a href="https://open.spotify.com/user/x3qpuc6fibvgyszpnzpzqyxc5">
