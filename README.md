@@ -56,11 +56,8 @@ Here are some ideas to get you started:
 </div>
 <!-- Statistik Github -->
 
-<div>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <h3>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </h3>
-</div>
-<br/>
+### Statistik Github
+
 <div align="center">
 
   [![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangaqshal&show_icons=true&theme=github_dark)](https://github.com/gilangaqshal/github-readme-stats)
