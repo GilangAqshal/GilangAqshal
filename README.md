@@ -1,9 +1,10 @@
 ![Header](Img/github-header-image.png)
-<div align="center">
-  <h3>
-    <img src="Img/icons8-globe (1).gif" height="24px"> <strong>Hello</strong> &lt; coders/&gt;!
-  </h3>
-</div>
+<h1 align="center">
+  <img src="Img/Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="Img/Hi.gif" width="40px" />
+</h1>
+<hr>
 
 ##### Welcome to MyPage!
 ##### I'm LangsDev! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> from &#127469;&#127475; Bekasi Indonesia.
@@ -43,4 +44,7 @@ Here are some ideas to get you started:
 [![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangaqshal&show_icons=true&theme=github_dark)](https://github.com/gilangaqshal/github-readme-stats)
 
 ##### Enjor Your MyProfile 🔥
-![Close](Img/luffy.gif)
+<div align="center">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB6MG80aTZidDFxaWpvdnptcHljdDAxMjd3OHV0YmlzdHJhMmNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJMSipnX6SyM6DFofc/giphy.gif"/>
+</div>
+<!-- ![Close](Img/luffy.gif) -->
