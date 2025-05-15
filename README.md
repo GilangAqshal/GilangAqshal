@@ -1,12 +1,12 @@
 ![Header](Img/github-header-image.png)
 <div align="center">
   <h3>
-    <img src="img/icons8-globe (1).gif" height="24px"> <strong>Hello</strong>, &lt; coders/&gt;!
+    <img src="Img/icons8-globe (1).gif" height="24px"> <strong>Hello</strong> &lt; coders/&gt;!
   </h3>
 </div>
 
 ##### Welcome to MyPage!
-##### I'm LangsDev<img src="img/smiling-face-with-sunglasses.gif" height="25px"> from 🇮🇩 Bekasi Indonesia.
+##### I'm LangsDev! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> from &#127469;&#127475; Bekasi Indonesia.
 
 
 <!--
@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 
 
 [![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangaqshal&show_icons=true&theme=github_dark)](https://github.com/gilangaqshal/github-readme-stats)
+
 ##### Enjor Your MyProfile 🔥
-![Close](img/luffy.gif)
+![Close](Img/luffy.gif)
