@@ -58,7 +58,12 @@ Here are some ideas to get you started:
 </div>
 
 ##### Enjor Your MyProfile 🔥
+
 <div align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB6MG80aTZidDFxaWpvdnptcHljdDAxMjd3OHV0YmlzdHJhMmNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJMSipnX6SyM6DFofc/giphy.gif"/>
+  <a href="https://open.spotify.com/user/x3qpuc6fibvgyszpnzpzqyxc5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=x3qpuc6fibvgyszpnzpzqyxc5&count=1" alt="Spotify Now Playing" />
+  </a>
+  <br>
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB6MG80aTZidDFxaWpvdnptcHljdDAxMjd3OHV0YmlzdHJhMmNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJMSipnX6SyM6DFofc/giphy.gif"/>
 </div>
-<!-- ![Close](Img/luffy.gif) -->
+
