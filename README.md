@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on **Web Development** 
+-->
 - 🌱 I’m currently learning **JavaScript and Software Devloper**
 
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
   [![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangaqshal&show_icons=true&theme=github_dark)](https://github.com/gilangaqshal/github-readme-stats)
   </div>
-
+ 
 <!-- GIF API -->
 ### Enjoy Your MyProfile <img src="Img/firee.gif" height="25px"/>
 <!-- Widget Spotify & Picture Luffy -->
