@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 
 ### Statistik Github
 
-<div align="center">
+<!-- <div align="center">
 
   [![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangaqshal&show_icons=true&theme=github_dark)](https://github.com/gilangaqshal/github-readme-stats)
-  </div>
+  </div> -->
  
 <!-- GIF API -->
 ### Enjoy Your MyProfile <img src="Img/firee.gif" height="25px"/>
@@ -72,6 +72,6 @@ Here are some ideas to get you started:
   </a>
   <br>
   <br>
-   <img src="https://tenor.com/view/declan-rice-gif-13087940253475892731"/>
+   <img src="Img/declan-rice-arsenal.gif"/>
 </div>
 
