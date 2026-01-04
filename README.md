@@ -72,6 +72,6 @@ Here are some ideas to get you started:
   </a>
   <br>
   <br>
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB6MG80aTZidDFxaWpvdnptcHljdDAxMjd3OHV0YmlzdHJhMmNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJMSipnX6SyM6DFofc/giphy.gif"/>
+   <img src="https://tenor.com/view/declan-rice-gif-13087940253475892731"/>
 </div>
 
